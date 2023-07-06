@@ -1,0 +1,17 @@
+li {
+    list-style: none;
+}
+
+
+
+.oip {
+    width: 500px;
+    height: 500px;
+    background: url('../images/OIP-C.jpg');
+}
+
+.abc {
+    width: 200px;
+    height: 200px;
+    background: url('../images/1.jpg');
+}
